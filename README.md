@@ -21,7 +21,7 @@
 <img src="https://github.com/user-attachments/assets/1d42d6e1-ffab-4ae7-84a2-24a78a1626b3" alt="GitHub" style="width: 8%">
 </a>
 <a href="https://www.linkedin.com/in/joshualing0612/" target="_blank">
-<img src="https://github.com/user-attachments/assets/d4d84d05-cece-477c-b428-38c0b2f43d4a"  alt="Linkedin" style="width: 8%">
+<img src="https://github.com/user-attachments/assets/44643ce6-cf18-49c4-9538-4197df5e8753"  alt="Linkedin" style="width: 8%">
 </a>
 
 ---
