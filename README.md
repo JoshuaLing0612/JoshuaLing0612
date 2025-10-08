@@ -20,7 +20,9 @@
 <a href="https://github.com/JoshuaLing0612" target="_blank">
 <img src="https://github.com/user-attachments/assets/1d42d6e1-ffab-4ae7-84a2-24a78a1626b3" alt="GitHub" style="width: 8%">
 </a>
-
+<a href="https://www.linkedin.com/in/joshualing0612/" target="_blank">
+<img src="https://github.com/user-attachments/assets/e09e54eb-cc92-439f-b84f-38e521491045"  alt="Linkedin" style="width: 8%">
+</a>
 ---
 
 ## 🎓 Education Journey
