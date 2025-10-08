@@ -34,7 +34,7 @@
 *2012* – *2017*  
 
 ### 📗 Secondory School
-- **SMK ST. ANTHONY**, Sarikei, Sarawak 
+**SMK ST. ANTHONY**, Sarikei, Sarawak 
   *2018* – *2022*   
   - Club Attempt:
     - Wushu(Vice President)
@@ -43,7 +43,7 @@
 - **SPM Result: 8A 2B+**
 
 ### 📙 Pre-University
-- **Malacca Matriculation College**, Masjid Tanah, Melaka
+**Malacca Matriculation College**, Masjid Tanah, Melaka
   *2023* - *2024*
 - **CGPA 3.96**
 - **Muet Band 3.5**
@@ -68,4 +68,14 @@
 | Programming Technique I (SECJ1513) |  Programming Technique II (SECJ1023) |
 | Discrete Structure (SECI1513) |  Probability & Statistical Data Analysis (SECI1143)  |
 ||  Human Computer Interaction (SECV2113)  |
+
+
+|  Year 2 Sem 1  |
+|----------------|
+|  Database (SECP2523)  |
+|  System Development Technology (SECP3723)  |
+|  Network Communications (SECR1213)  |
+|  Software Engineering (SECP2203)  |
+|  Data Structure & Algorithm (SECJ2013)  |
+
 ---
