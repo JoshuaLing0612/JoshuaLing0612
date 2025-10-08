@@ -9,7 +9,8 @@
 
 - Hometown : Sarikei(Sarawak).
 - Birthday : 12/6/2005.
-- Love playing games, for sports like playing badminton.
+- Love playing video games - Minecraft, ZZZ, Street Fighter 6, HoK, MapleStory
+- Sports like to play Badminton. Currently practise on Pickleball.
 - Currently studying at Universiti Teknologi Malaysia(UTM), Johor.
 - Second year(Sem 1) of Bachelor of Computer Science (Data Engineering).
 - My email : lingjoshua45@gmail.com
