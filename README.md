@@ -57,11 +57,11 @@
 ---
 
 ## Studied Degree Course
-|      Year 1 Sem 1        |
-|--------------------|
-| Technology and Information System (SECP1513)|
-| Digital Logic (SECR1513)|
-| Programming Technique 1 (SECJ1513) |
-| Discrete Structure (SECI1513) |
-
+|      Year 1 Sem 1        |  Year 1 Sem 2  |
+|--------------------|  -------------------  |
+| Technology and Information System (SECP1513)|  System Analysis & Design (SECP2613)  |
+| Digital Logic (SECR1513)|  Computer Organisation & Architecture (SECR1033)  |
+| Programming Technique I (SECJ1513) |  Programming Technique II (SECJ1023) |
+| Discrete Structure (SECI1513) |  Probability & Statistical Data Analysis (SECI1143)  |
+||  Human Computer Interaction (SECV2113)  |
 ---
